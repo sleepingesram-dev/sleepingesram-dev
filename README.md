@@ -1,31 +1,31 @@
 # Esram
 
-Building **E.V.**, a persistent personal AI designed to work across trusted devices instead of living inside one chat window.
+Building **Yuena**, a persistent personal AI designed to work across trusted devices instead of living inside one chat window.
 
-## E.V. Projects
+## Yuena Projects
 
-The public project hub documents verified capabilities, active development, security decisions, milestones, and the larger roadmap around E.V.
+The public project hub documents verified capabilities, active development, security decisions, milestones, and the larger roadmap around Yuena
 
-**Project hub:** https://sleepingesram-dev.github.io/ev-project/
+**Project hub:** https://sleepingesram-dev.github.io/yuena-project/
 
-**Public repository:** https://github.com/sleepingesram-dev/ev-project
+**Public repository:** https://github.com/sleepingesram-dev/yuena-project
 
 ### Current focus
 
-Building the secure cross-device E.V. core on top of the working desktop foundation: voice interaction, interruption, local/cloud reasoning, system awareness, owner verification, authorization controls, and approved desktop actions.
+Building the secure cross-device Yuena core on top of the working desktop foundation: voice interaction, interruption, local/cloud reasoning, system awareness, owner verification, authorization controls, and approved desktop actions.
 
 ### Public roadmap
 
-- **E.V.** — persistent personal AI
+- **Yuena** — persistent personal AI
 - **Road to Japan** — relocation planning and long-term stability
 - **Motorcycle Project** — training, safety, maintenance, and future riding
-- **E.V. Base** — long-term live/work concept, currently research-stage
+- **Yuena Base** — long-term live/work concept, currently research-stage
 
 ## Support
 
-Optional one-time support for the current E.V. Core milestone is available through the project site or Ko-fi:
+Optional one-time support for the current Yuena Core milestone is available through the project site or Ko-fi:
 
-- https://sleepingesram-dev.github.io/ev-project/support.html
+- https://sleepingesram-dev.github.io/yuena-project/support.html
 - https://ko-fi.com/sleepingesram
 
 GitHub Sponsors is currently pending review.
