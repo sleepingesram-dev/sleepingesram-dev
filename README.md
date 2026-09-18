@@ -4,7 +4,7 @@ Building **Yuena**, a persistent personal AI designed to work across trusted dev
 
 ## Yuena Projects
 
-The public project hub documents verified capabilities, active development, security decisions, milestones, and the larger roadmap around Yuena
+The public project hub documents verified capabilities, active development, security decisions, milestones, and the larger roadmap around Yuena.
 
 **Project hub:** https://sleepingesram-dev.github.io/yuena-project/
 
